@@ -64,7 +64,7 @@ Start your preferred browser application and enter the following URLs:
 
 Due to my experience and the time given for creating the application, there are some improvements I would have made including:
 
-- Creating unit tests for the controller and the service, using Mockito
+- Creating further unit tests for the service
 - Adding further exception handlers to catch any errors at the earliest stage
 - Creating an interface
     
