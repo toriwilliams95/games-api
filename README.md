@@ -66,7 +66,7 @@ Due to my experience and the time given for creating the application, there are 
 
 - Creating further unit tests for the service
 - Adding further exception handlers to catch any errors at the earliest stage
-- Creating an interface
+- Creating an interface for the service layer
     
     
 
