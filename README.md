@@ -1,6 +1,6 @@
 # Games API
 
-This is an application which stores a games.json file and produces the data from this file.
+This is an application which reads from a games.json file and produces the data associated with this file.
 
 ### Technologies Used
 
