@@ -20,7 +20,7 @@ public class GamesService {
 
         try {
             this.cachedGames = new ObjectMapper().readValue(getClass().getClassLoader()
-                    .getResourceAsStream("games.json"), Games.class).getGames();
+                    .getResourceAsStream("games.json"), Game[].class);
         } catch (IOException e) {
             throw new GamesJsonMappingException(e);
         }

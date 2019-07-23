@@ -1,79 +1,77 @@
-{
-  "games": [
-    {
-      "id": 1,
-      "title": "Uncharted 1",
-      "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
-      "by": "Sony",
-      "platform": [
-        "PS3"
-      ],
-      "age_rating": "16",
-      "likes": 80,
-      "comments": [
-        {
-          "user": "Bob Jones",
-          "message": "Brilliant game",
-          "dateCreated": "2015-01-03",
-          "like": 8
-        },
-        {
-          "user": "Jane Willians",
-          "message": "Need more challenges!",
-          "dateCreated": "2015-04-02",
-          "like": 4
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Uncharted 2",
-      "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
-      "by": "Microsoft",
-      "platform": [
-        "XBOX"
-      ],
-      "age_rating": "15",
-      "likes": 50,
-      "comments": [
-        {
-          "user": "Jane Doe",
-          "message": "Great game!",
-          "dateCreated": "2017-01-03",
-          "like": 7
-        },
-        {
-          "user": "John Doe",
-          "message": "Best game i've ever played!",
-          "dateCreated": "2017-03-02",
-          "like": 8
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Uncharted 3",
-      "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
-      "by": "Sony",
-      "platform": [
-        "PS4"
-      ],
-      "age_rating": "12",
-      "likes": 100,
-      "comments": [
-        {
-          "user": "Eric Dyer",
-          "message": "Not a great game, needed more of a storyline",
-          "dateCreated": "2018-01-03",
-          "like": 2
-        },
-        {
-          "user": "William Jones",
-          "message": "Couldn't fault it!",
-          "dateCreated": "2018-03-02",
-          "like": 8
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Uncharted 1",
+    "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
+    "by": "Sony",
+    "platform": [
+      "PS3"
+    ],
+    "age_rating": "16",
+    "likes": 80,
+    "comments": [
+      {
+        "user": "Bob Jones",
+        "message": "Brilliant game",
+        "dateCreated": "2015-01-03",
+        "like": 8
+      },
+      {
+        "user": "Jane Willians",
+        "message": "Need more challenges!",
+        "dateCreated": "2015-04-02",
+        "like": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Uncharted 2",
+    "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
+    "by": "Microsoft",
+    "platform": [
+      "XBOX"
+    ],
+    "age_rating": "15",
+    "likes": 50,
+    "comments": [
+      {
+        "user": "Jane Doe",
+        "message": "Great game!",
+        "dateCreated": "2017-01-03",
+        "like": 7
+      },
+      {
+        "user": "John Doe",
+        "message": "Best game i've ever played!",
+        "dateCreated": "2017-03-02",
+        "like": 8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Uncharted 3",
+    "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
+    "by": "Sony",
+    "platform": [
+      "PS4"
+    ],
+    "age_rating": "12",
+    "likes": 100,
+    "comments": [
+      {
+        "user": "Eric Dyer",
+        "message": "Not a great game, needed more of a storyline",
+        "dateCreated": "2018-01-03",
+        "like": 2
+      },
+      {
+        "user": "William Jones",
+        "message": "Couldn't fault it!",
+        "dateCreated": "2018-03-02",
+        "like": 8
+      }
+    ]
+  }
+]
