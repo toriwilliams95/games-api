@@ -23,6 +23,11 @@ public class GamesController {
     @Autowired
     private GamesService gamesService;
 
+    /**
+     * Retrieves data for a specific game ID
+     * @param gameId
+     * @return
+     */
     @GetMapping(value = EndPoint.GAME_BY_ID)
     public ResponseEntity<Game> getGameById(@PathVariable("id") int gameId) {
 
@@ -39,6 +44,10 @@ public class GamesController {
         }
     }
 
+    /**
+     * Retrieves game report data
+     * @return
+     */
     @GetMapping(value = EndPoint.GAME_REPORT)
     public ResponseEntity<GameReport> getGameReport() {
 
